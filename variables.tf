@@ -13,15 +13,15 @@ variable "vlan" {
     default = ""
 }
 
-variable "compute_cluster" {
-    type = string
-    default = ""
-}
+# variable "compute_cluster" {
+#     type = string
+#     default = ""
+# }
 
-variable "datastore_cluster" {
-    type = string
-    default = ""
-}
+# variable "datastore_cluster" {
+#     type = string
+#     default = ""
+# }
 
 variable "resource_pool" {
     type = string
