@@ -1,2 +1,2 @@
 # terraform-vsphere_vms
-Creates modules in on-premise vSphere infrastructure.
+Creates virtual machines in on-premise vSphere infrastructure.
